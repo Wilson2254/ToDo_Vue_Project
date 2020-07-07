@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Проект был выполнен, чтобы познакомиться с VUE CLI, а также WebPack.
+В приложении реализована работа с компонентами
